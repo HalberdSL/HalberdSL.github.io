@@ -3,6 +3,17 @@
   <entry>
     <title>测试文章testBlog</title>
     <url>/2021/08/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0testBlog/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="这是一个测试文章"><a href="#这是一个测试文章" class="headerlink" title="这是一个测试文章"></a>这是一个测试文章</h1><blockquote>
+<p>这可能是个副标题</p>
+</blockquote>
+<!--阅读更多-->
+
+<p>这是我的第一篇博客</p>
+<img src="/.com//08/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0testBlog/test.jpeg" class title="Eminem">
+
+<h3 id="谢谢观看"><a href="#谢谢观看" class="headerlink" title="谢谢观看"></a>谢谢观看</h3>]]></content>
+      <categories>
+        <category>博客搭建经验</category>
+      </categories>
   </entry>
 </search>
