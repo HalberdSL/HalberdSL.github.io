@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-15T22:42:03.318Z</updated>
+  <updated>2021-08-16T12:08:19.709Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的hexo博客搭建</title>
+    <link href="http://example.com/2021/08/16/%E6%88%91%E7%9A%84hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <id>http://example.com/2021/08/16/%E6%88%91%E7%9A%84hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <published>2021-08-16T05:48:44.000Z</published>
+    <updated>2021-08-16T12:08:19.709Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;我的hexo博客搭建&quot;&gt;&lt;a href=&quot;#我的hexo博客搭建&quot; class=&quot;headerlink&quot; title=&quot;我的hexo博客搭建&quot;&gt;&lt;/a&gt;我的hexo博客搭建&lt;/h1&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;此文章为分享我在&lt;strong&gt;mac&lt;/strong&gt;上搭建hexo博客的经历&lt;/p&gt;
+&lt;p&gt;基于b站代码羊&lt;a href=&quot;https://space.bilibili.com/384068749&quot;&gt;CodeSheep&lt;/a&gt;的视频&lt;a href=&quot;https://www.bilibili.com/video/BV1Yb411a7ty&quot;&gt;《手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="博客搭建经验" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>测试文章testBlog</title>
